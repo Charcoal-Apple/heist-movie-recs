@@ -2,8 +2,12 @@
 
 # Shortlist - heist classics
 
-- Ocean's Eleven
-- Heat
+- Ocean's Eleven (2001) - *HBO max*, [$*prime video*](https://www.amazon.com/Oceans-Eleven-George-Clooney/dp/B008Q00U9W/ref=sr_1_1)
+- Heat (1995) - [$*prime video*](https://www.amazon.com/gp/video/detail/B08GSPB3GS/ref=atv_dl_rdr)
+- Inception (2010) - [*hulu*](https://www.hulu.com/movie/inception-5519f425-9b21-48fb-8e67-aef24c76604a)
+- Italian Job (2003) - [$*youtube*](https://www.youtube.com/results?search_query=The+Italian+Job+%282003%29%2Bmovie)
+  - see also Italian Job (1969) - [*prime video*](https://www.amazon.com/gp/video/detail/B088PLZD52/ref=atv_dl_rdr?tag=justus1ktp-20)
+- Baby Driver (2017) - [$*prime video*](https://www.amazon.co.uk/Baby-Driver-Jamie-Foxx/dp/B073DPLHDW/ref=sr_1_1)
 
 # Currently Watching 
 - Great Pretender - [*Netflix*](https://www.netflix.com/title/81220435)
@@ -62,6 +66,13 @@ Some fun heist implementation strategy, characters you wanna root for, and a sur
   - Former Jewel Thief Reviews Famous Heist Movies, From ‘Ocean’s Eleven’ to ‘Heat’ [youtube](https://youtu.be/CtWqv0Z3ErM)
 
 - Additional unsorted movies
+  - The Town (2010)
+  - Friends of Eddie Coyle (1973)
+  - Rififi (1955)
+  - The Usual Suspects (1995)
+  - Reservoir Dogs (1992)
+  - Inside Man (2006)
+  - A Fish Called Wanda (1988)
   - Heist (2021) - [*Netflix*](https://www.netflix.com/title/81087195)
     - true crime documentary
   - Army of the Dead (2021 dir. Zack Synder) - [*Netflix*](https://www.netflix.com/title/81046394)
