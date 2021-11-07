@@ -41,6 +41,12 @@ Not a ton of flashy strategy, but just enough. Not a huge amount of character de
 Some fun heist implementation strategy, characters you wanna root for, and a surprising amount of heart and charm. Not the most high-art heist movie ever made, but a thoroughly enjoyable watch
 </details>
 
+- Money Heist "La casa de papel" (2019) - [*Netflix*](https://www.netflix.com/title/80192098)
+<details>
+  <summary>review</summary> 
+A multi-part series about an extended heist in the Royal Mint of Spain. The narration and dubbing take some getting used to, but after a while the show settles in to be a compelling mix of character drama and a tense, siege-like heist. Also lots of good cat and mouse between the crew and the police.
+</details>
+
 # Movies (to - watch pile)
 - Widows (2018) - [$*prime video*](https://www.amazon.com/gp/video/detail/B07KLRQ5S6/ref=atv_dl_rdr?tag=tvg_aiv_showcard-20)
 - Thief (1981) - [$*vudu*](https://www.vudu.com/content/movies/details/Thief/140932?cj=--8484082--5014360-_-Deep+Link+Text+Link&cjevent=f019a4843f5f11ec815400cb0a82b821&cjid=cj_14516778_8484082_48174e14a7af4565bd8c3fef6a4093f3&cjdata=MXxOfDB8WXww)
