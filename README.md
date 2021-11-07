@@ -57,9 +57,9 @@ Some fun heist implementation strategy, characters you wanna root for, and a sur
 - [Heist Podcast](https://www.heistpodcast.com/)
 
 - Several "interviews with experts" videos on youtube
-  - Former Diamond Thief And Detective Break Down 7 Jewel Heists In Movies And TV | How Real Is It? [[youtube]](https://youtu.be/L_BMPmOZgiY)
-  - Former Art Thief And Detective Rate 9 Art Heists In Movies And TV | How Real Is It? [[youtube]](https://youtu.be/AzGs26X86i4)
-  - Former Jewel Thief Reviews Famous Heist Movies, From ‘Ocean’s Eleven’ to ‘Heat’ [[youtube]](https://youtu.be/CtWqv0Z3ErM)
+  - Former Diamond Thief And Detective Break Down 7 Jewel Heists In Movies And TV | How Real Is It? - [youtube](https://youtu.be/L_BMPmOZgiY)
+  - Former Art Thief And Detective Rate 9 Art Heists In Movies And TV | How Real Is It? [youtube](https://youtu.be/AzGs26X86i4)
+  - Former Jewel Thief Reviews Famous Heist Movies, From ‘Ocean’s Eleven’ to ‘Heat’ [youtube](https://youtu.be/CtWqv0Z3ErM)
 
 - Additional unsorted movies
   - Heist (2021) - [*Netflix*](https://www.netflix.com/title/81087195)
