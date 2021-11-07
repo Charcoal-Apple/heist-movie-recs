@@ -49,7 +49,7 @@ Some fun heist implementation strategy, characters you wanna root for, and a sur
 - Gonin aka "The Five" (1995)
 - The King of Theives (2019) - [*prime video*](https://www.amazon.com/King-Thieves-Michael-Caine/dp/B07MZ9YXJS)
   - a telling of the real-life "Hatton Garden Job" [wiki](https://en.wikipedia.org/wiki/Hatton_Garden_safe_deposit_burglary)
-...
+
 
 # Animé
 - Great Pretender - [*Netflix*](https://www.netflix.com/title/81220435)
@@ -85,4 +85,4 @@ here are some other lists of heist movies I scanned through to make this one:
 
 - The 20 Best Heist Movies Of All Time - [slashfilm.com](https://www.slashfilm.com/589099/the-best-heist-movies-of-all-time/)
 
-- Great Pretender & 9 Other Great Heist Animé [cbr.com](https://www.cbr.com/best-good-heist-anime-like-great-pretender/)
+- Great Pretender & 9 Other Great Heist Animé - [cbr.com](https://www.cbr.com/best-good-heist-anime-like-great-pretender/)
